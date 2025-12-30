@@ -1,0 +1,139 @@
+{
+  // =============================
+  // Editor – Font & Appearance
+  // =============================
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 36,
+  "editor.cursorWidth": 2,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.lineNumbers": "on",
+  "editor.glyphMargin": false,
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "none",
+  "editor.renderWhitespace": "none",
+  "editor.matchBrackets": "near",
+  "editor.hideCursorInOverviewRuler": true,
+
+  // =============================
+  // Editor – Behavior & Navigation
+  // =============================
+  "editor.formatOnSave": true,
+  "editor.gotoLocation.multipleDeclarations": "goto",
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleImplementations": "goto",
+  "editor.gotoLocation.multipleReferences": "goto",
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+  "editor.bracketPairColorization.enabled": false,
+  "editor.colorDecorators": false,
+  "editor.guides.indentation": false,
+
+  // =============================
+  // Editor – Scrollbars
+  // =============================
+  "editor.scrollbar.horizontalScrollbarSize": 8,
+  "editor.scrollbar.verticalScrollbarSize": 8,
+  "editor.scrollbar.vertical": "hidden",
+
+  // =============================
+  // Debug Console
+  // =============================
+  "debug.console.fontFamily": "JetBrains Mono",
+  "debug.console.fontSize": 15,
+  "debug.console.lineHeight": 36,
+  "debug.toolBarLocation": "docked",
+
+  // =============================
+  // Diff Editor
+  // =============================
+  "diffEditor.ignoreTrimWhitespace": false,
+  "diffEditor.renderSideBySide": false,
+
+  // =============================
+  // Explorer
+  // =============================
+  "explorer.compactFolders": false,
+  "explorer.decorations.badges": false,
+  "explorer.openEditors.visible": 1,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+
+  // =============================
+  // Git / SCM
+  // =============================
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "scm.diffDecorations": "none",
+
+  // =============================
+  // Terminal
+  // =============================
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.lineHeight": 1.85,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.enableMultiLinePasteWarning": "always",
+
+  // =============================
+  // Markdown
+  // =============================
+  "markdown.preview.markEditorSelection": false,
+
+  // =============================
+  // Problems & Diagnostics
+  // =============================
+  "problems.decorations.enabled": false,
+
+  // =============================
+  // Workbench – Theme & UI
+  // =============================
+  "workbench.colorTheme": "Vesper",
+  "workbench.preferredDarkColorTheme": "Vesper",
+  "workbench.preferredLightColorTheme": "Vesper",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "material-product-icons",
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.location": "hidden",
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "workbench.layoutControl.type": "toggles",
+  "workbench.panel.showLabels": false,
+
+  // =============================
+  // Workbench – Editor Management
+  // =============================
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.revealIfOpen": true,
+  "workbench.editor.showTabs": "single",
+
+  // =============================
+  // Workbench – Lists & Trees
+  // =============================
+  "workbench.list.horizontalScrolling": true,
+  "workbench.tree.indent": 16,
+  "workbench.tree.renderIndentGuides": "none",
+
+  // =============================
+  // Window
+  // =============================
+  "window.menuBarVisibility": "compact",
+
+  // =============================
+  // Files
+  // =============================
+  "files.autoSave": "afterDelay",
+
+  // =============================
+  // Code Runner
+  // =============================
+  "code-runner.runInTerminal": true,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+
+  // =============================
+  // Security
+  // =============================
+  "security.workspace.trust.untrustedFiles": "open"
+}
